@@ -1,6 +1,6 @@
 ## To-Do List
 - [ ] Redo UI
-- [ ] Dark Mode
+- [X] Dark Mode
 - [ ] Possible UI Animations?
 - [ ] Redesign the search function
       - [ ] New UI
